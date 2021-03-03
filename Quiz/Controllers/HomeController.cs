@@ -15,7 +15,7 @@ namespace Quiz.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application page.";
 
             return View();
         }
